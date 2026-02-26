@@ -23,4 +23,3 @@ function addition(uint a, uint b) public pure returns (uint)
 Subtraction
 ```Solidity
 function subtraction(uint a, uint b) public pure returns (uint)
-```
