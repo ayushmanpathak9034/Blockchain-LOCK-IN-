@@ -69,5 +69,5 @@ This project is intended for learning and understanding:
 
 * Basic Solidity syntax
 * Function creation
+* Pure Functions
 * Arithmetic operations in smart contract
-* Pure functions
